@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm RAZAN</h1>
 <h3 align="center">jawa barat, bekasi</h3>
+<p align="center">
+  <img src="https://telegra.ph/file/ec1a79104284cb8fdf507.png" alt="RZN GABUT" width="150" />
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razanrg&label=Profile%20views&color=0e75b6&style=flat" alt="razanrg" /> </p>
 
