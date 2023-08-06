@@ -11,13 +11,16 @@
 - 🌱 hobi; main.
 - 💞️ gw masih belajar
 - 📫 sekolah smp attaqwa 10
-#📈 GitHub Stats
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RazanRG&show_icons=true&count_private=true" alt="GitHub Stats" />
 </p>
 
-
+- [tiktok](https://tiktok.com/razanbotz)
+- [instagram](https://instagram.com/4krazan_7)
+- [instagtam](https://instagram.com/4krazan7)
+- [Email](razantanvan@email.com)
 <!---
 RazanRG/RazanRG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
