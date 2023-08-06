@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://telegra.ph/file/ec1a79104284cb8fdf507.png" alt="Your Project Name" width="300" />
-</p>
-<h1 align="center">RZN GABUT</h1>
-
 <h1 align="center">Hi 👋, I'm RAZAN</h1>
 <h3 align="center">jawa barat, bekasi</h3>
 
@@ -31,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=razanrg&show_icons=true&locale=en" alt="razanrg" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razanrg&" alt="razanrg" /></p>
-
