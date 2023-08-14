@@ -11,11 +11,7 @@
 
 - 🔭 bot [bot wa](https://github.com/RazanRG/Nero.git)
 
-- 🌱 gw masih pelajar **umur 14 orang bekasi**
-
-- 💬 about me **sekolah smp attaqwa 10 kelas 92**
-
-- 📫 gmail **razantanvan@gmail.com**
+- 🌱 gw masih pelajar, **umur 14 orang bekasi**, **smp attaqwa 10**
 
 <h3 align="left">Connect with me:</h3>
 <p align="le<p align="center">
