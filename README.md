@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=razanrg" alt="razanrg" /></a> </p>
 
-- 🔭 bot [bot wa](https://github.com/RazanRG/Nero.git)
+- 🔭 nama Razan
 
-- 🌱 gw masih pelajar, **umur 14 orang bekasi**, **smp attaqwa 10**
+- 🌱 gw masih pelajar
 
 <h3 align="left">Connect with me:</h3>
 <p align="le<p align="center">
