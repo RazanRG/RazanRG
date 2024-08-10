@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=razanrg" alt="razanrg" /></a> </p>
 
-- 🔭 nama Razan
+- 🔭 My Name Is Razan
 
-- 🌱 gw masih pelajar
+- 🌱 I am a student 
 
