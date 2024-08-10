@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=964B00&width=456&lines=WELCOME TO PROFILE;RAZAN+MUHAMMAD+IKHSAN" alt="Typing SVG" /></a>
+https://readme-typing-svg.demolab.com/demo/?color=282FF7&lines=WELCOME+TO+MY+PROFILE;RAZAN+MUHAMMAD+IKHSAN
 
 ------
 
